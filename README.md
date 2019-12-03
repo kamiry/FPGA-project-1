@@ -9,7 +9,6 @@ LED 陣列，用來計分。<br>
 
 功能說明:<br>
 紅色與藍色玩家對戰，先贏五球 或 在時間結束後最高分者獲勝。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" width="500"/><br>
 
 Demo video:
 
