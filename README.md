@@ -12,5 +12,5 @@ LED 陣列，用來計分。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" width="500"/><br>
 
 Demo video:
-https://drive.google.com/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO
-<a href="https://drive.google.com/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO" title="Demo Video"><img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" alt="Demo Video" /></a>
+
+<a href="https://drive.google.com/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO" title="Demo Video"><img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" alt="Demo Video" width="500"/></a>
