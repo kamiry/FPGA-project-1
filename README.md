@@ -1,5 +1,5 @@
 # FPGA-project-1
-## Authors: 105321047 105321035
+#### Authors: 105321047 105321035
 
 Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示對戰畫面。下圖為按下 clear 的初始畫面。<br>
